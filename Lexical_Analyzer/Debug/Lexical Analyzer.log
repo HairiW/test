@@ -1,0 +1,6 @@
+﻿  源.cpp
+D:\a-Study\Code\Compilation principle\Lexical Analyzer\源.cpp(127,11): warning C4018: “<=”: 有符号/无符号不匹配
+D:\a-Study\Code\Compilation principle\Lexical Analyzer\源.cpp(254,16): warning C4018: “<=”: 有符号/无符号不匹配
+D:\a-Study\Code\Compilation principle\Lexical Analyzer\源.cpp(266,17): warning C4018: “<=”: 有符号/无符号不匹配
+D:\a-Study\Code\Compilation principle\Lexical Analyzer\源.cpp(335,14): warning C4018: “<”: 有符号/无符号不匹配
+  Lexical Analyzer.vcxproj -> D:\a-Study\Code\Compilation principle\Lexical Analyzer\Debug\Lexical Analyzer.exe
